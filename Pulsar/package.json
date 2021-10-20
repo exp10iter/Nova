@@ -10,7 +10,7 @@
 		"passport-http": "",
 		"sqlite3": "",
 		"websocket": "1.x.x",
-		"socket.io": "0.9.10",
+		"socket.io": "0.9.19",
 		"node-schedule":"",
 		"ncp":""
 	}
