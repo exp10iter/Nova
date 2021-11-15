@@ -8,7 +8,7 @@
 		, "jade"		:	"0.33.x"
 		, "socket.io"	:	"0.9.x"
 		, "passport"	:	"0.1.x"
-		, "passport-http"	:	"0.2.x"
+		, "passport-http"	:	"0.3.0"
 		, "sqlite3" : "2.1.7"
 		, "validator" : "1.1.x"
 		, "websocket" : "1.0.x"
